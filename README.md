@@ -30,7 +30,7 @@ Implementing tasks:
   - the algorithm is used for factorization by the Jacobi method on a dense matrix
   - return the iteration matrix G and the iteration vector c
 * Jacobi sparse:
-- the parameters are used: iteration matrix in CSR form and iteration vector and Jacobi factorization is applied to find the system solution.
+  - the parameters are used: iteration matrix in CSR form and iteration vector and Jacobi factorization is applied to find the system solution.
 
 ## Task 2:
 * Clustering:
